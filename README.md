@@ -1,4 +1,4 @@
-#### Welcome to my Github!
+### Welcome to my Github!
 ![Computer Science and Programming](https://media.licdn.com/dms/image/D4D16AQFBbwNMCxmLaw/profile-displaybackgroundimage-shrink_350_1400/0/1688299615957?e=1704931200&v=beta&t=PU1nxCzLzxBWEYh_ZGCaOkrz9q33M1PwcAU6sx5o_Zw)
 
 I'm a passionate programmer who is always eager to learn new things.
